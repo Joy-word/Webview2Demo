@@ -30,6 +30,7 @@ namespace WebView2Demo {
         //(115.857372,28.692172) 南昌博能金融中心（网旭南昌）
         //(113.932235,22.517657) 深圳来福士广场（网旭深圳）
         //(108.955684,34.238651) 西安碑林区长安大街（网旭西安）
+        //更新测试
 
         private void MainWindow_Loaded(object sender, RoutedEventArgs e) {
             webView.Source = new Uri("file:///D:/documents/Domos/WebView2Demo/WebView2Demo/bin/Debug/html/webMap.html");

@@ -1,0 +1,9 @@
+﻿################################################################################
+# 此 .gitignore 文件已由 Microsoft(R) Visual Studio 自动创建。
+################################################################################
+
+/.vs/WebView2Demo
+/AwesomiumDemo/obj/Debug
+/WebLoadCompare/obj/Debug
+/WebView2Demo/obj/Debug
+/packages
